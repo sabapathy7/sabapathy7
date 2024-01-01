@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Kanagasabapathy Rajkumar
 🔭 I’m currently working on Swift programming<br>👯 I’m looking to collaborate on Swift projects along with SwiftUI, Combine and CoreData frameworks<br>🤝 Started building Swift Packages<br>🌱 I’m currently learning Swift - The Composable Architecture (TCA) <br>💬 Ask me about - I have a decade of IT experience majorly specialising in the iOS ecosystem. I love writing blogs, and podcasts and regularly attending meetups to stay updated in the iOS community. <br>⚡ Fun fact - Love Apple products and Cricket
 
 
