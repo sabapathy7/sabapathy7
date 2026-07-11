@@ -1,19 +1,43 @@
-# 💫 About Me: Kanagasabapathy Rajkumar
-🔭 I’m currently working on Swift programming<br>👯 I’m looking to collaborate on Swift projects along with SwiftUI, Combine and CoreData frameworks<br>🤝 Started building Swift Packages<br>🌱 I’m currently learning Swift - The Composable Architecture (TCA) <br>💬 Ask me about - I have a decade of IT experience majorly specialising in the iOS ecosystem. I love writing blogs, and podcasts and regularly attending meetups to stay updated in the iOS community. <br>⚡ Fun fact - Love Apple products and Cricket
+# Kanagasabapathy Rajkumar
 
+Lead iOS engineer and conference speaker. I build Swift packages, talk about Swift Concurrency and AI-assisted development, and help run the Swift community in Bengaluru.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YdZCWYK8mT) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabapathy7) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabapathy7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2524447) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sabapathytr7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sabapathytr7) 
+## Featured Talk
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sabapathy7&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sabapathy7&theme=swift&hide_border=false)<br/>
+- [**Swift Concurrency in 6.2: Patterns & Pitfalls**](https://www.youtube.com/watch?v=q-Y44dh6sTo) — Do-iOS Conference, Netherlands
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sabapathy7&custom_title=Saba%27s%20Contribution%20Graph&hide_border=true&theme=xcode)<br/>
+## Swift Packages
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabapathy7) 
+- [**NetworkKit**](https://github.com/sabapathy7/NetworkKit) — Modular network layer for Apple platforms with Combine, async/await, and closures, designed for Swift concurrency.
+- [**iOSNetworkExample**](https://github.com/sabapathy7/iOSNetworkExample) — Sample app showing NetworkKit with Combine, async/await, and closure-based APIs.
+- [**SwiftAgents**](https://github.com/sabapathy7/SwiftAgents) — `AGENTS.md` starter for Swift and SwiftUI projects working with AI coding agents.
 
-  
+## Architecture & Patterns
+
+- [**SOLIDPrinciplesExample**](https://github.com/sabapathy7/SOLIDPrinciplesExample) — SOLID principles in Swift with practical, production-shaped examples.
+- [**SwiftBlrTCADemo**](https://github.com/sabapathy7/SwiftBlrTCADemo) — Getting started with The Composable Architecture, from a SwiftBLR meetup at AiDash.
+- [**ForceUpdateExample**](https://github.com/sabapathy7/ForceUpdateExample) — Force-update patterns for shipping mandatory app upgrades.
+- [**KeychainServicesExample**](https://github.com/sabapathy7/KeychainServicesExample) — Secure storage with Keychain Services on iOS.
+
+## UIKit & SwiftUI
+
+- [**LayoutSubViewsExample**](https://github.com/sabapathy7/LayoutSubViewsExample) — UIKit layout engine and `layoutSubviews` deep dive.
+- [**AutoLayoutExample**](https://github.com/sabapathy7/AutoLayoutExample) — Priorities, multipliers, and content dynamics for responsive UIKit layouts.
+- [**PropertyWrappersObservers**](https://github.com/sabapathy7/PropertyWrappersObservers) — Property wrappers and data flow in SwiftUI.
+- [**WeatherApp**](https://github.com/sabapathy7/WeatherApp) — SwiftUI + Combine weather app with MVVM.
+
+## Community & Speaking
+
+- Co-organizer, [Swift Bengaluru (SwiftBLR)](https://www.meetup.com/swiftbengaluru/)
+- Speaker — Do-iOS, SwiftBLR, SwiftSurat, Apple Developers Club ([Sessionize](https://sessionize.com/sabapathy7))
+- Host — [SwiftPublished](https://youtube.com/@sabapathytr7) tech podcast on YouTube
+- Writing — [Medium](https://medium.com/@sabapathy7) / [Swift Published](https://sabapathy7.github.io/#articles)
+
+## Links
+
+- [Portfolio](https://sabapathy7.github.io)
+- [LinkedIn](https://linkedin.com/in/sabapathy7)
+- [Medium](https://medium.com/@sabapathy7)
+- [YouTube](https://youtube.com/@sabapathytr7)
+- [Sessionize](https://sessionize.com/sabapathy7)
+- [X / Twitter](https://twitter.com/sabapathytr7)
