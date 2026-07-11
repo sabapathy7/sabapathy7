@@ -31,6 +31,10 @@ Lead iOS engineer and conference speaker. I build Swift packages, talk about Swi
 - Writing — [Medium](https://medium.com/@sabapathy7) / [Swift Published](https://sabapathy7.github.io/#articles)
 - Host — [SwiftPublished](https://youtube.com/@sabapathytr7) tech podcast on YouTube
 
+## Activity
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabapathy7&custom_title=Contribution%20Graph&hide_border=true&theme=xcode)](https://github.com/sabapathy7)
+
 ## Socials
 
 - [Portfolio](https://sabapathy7.github.io)
