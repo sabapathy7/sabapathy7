@@ -11,7 +11,7 @@ Lead iOS engineer and conference speaker. I build Swift packages, talk about Swi
 - [**NetworkKit**](https://github.com/sabapathy7/NetworkKit) — Modular network layer for Apple platforms with Combine, async/await, and closures, designed for Swift concurrency.
 - [**iOSNetworkExample**](https://github.com/sabapathy7/iOSNetworkExample) — Sample app showing NetworkKit with Combine, async/await, and closure-based APIs.
 
-## Tooling & Release
+## Developer Tools
 
 - [**AscKit**](https://github.com/sabapathy7/AscKit) — Copy-in toolkit for App Store Connect releases: screenshots, TestFlight, and IAP helpers via Fastlane and the ASC REST API.
 
